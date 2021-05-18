@@ -33,7 +33,7 @@ header{
   height: auto;
 }
 
- .container {
+ .healthcare-container {
    max-width: 95%;
    padding: 0 2rem;
    margin: 0 auto;
@@ -586,6 +586,7 @@ marquee{
   background-color: #111;
   color: #fff;
   padding: 10px;
+  /* white-space: normal; */
 }
 
 /* .ptext .trans {
@@ -602,6 +603,3 @@ marquee{
   }
 }
 
-/* ----------------------------------------------------------------------RESPONSIVE_TESTIMONIAL--------------------------------------------------------------------------------- */
-
- 
