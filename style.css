@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
 *{
-  padding: 0;
+  padding: 0; 
   margin: 0;
   box-sizing: border-box;
 }
@@ -97,7 +97,6 @@ nav .nav-link:hover{
   font-weight: bold;
   box-shadow: none;
 }
-
 
 /* ------------------ Swiper Quotes Card -------------------- */
 .owl-carousel .card {
