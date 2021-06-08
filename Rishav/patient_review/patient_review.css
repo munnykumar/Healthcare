@@ -7,3 +7,15 @@
   box-sizing: border-box;
 }
 
+h1{
+  font-family: 'Dancing Script', cursive;
+}
+
+nav .nav-link{
+  color:#212529 !important;
+}
+
+nav .nav-link:hover{
+  color:#dc3545 !important;
+}
+
